@@ -1,0 +1,15 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "twig/twig": "^2.11",
+    "symfony/yaml": "^4.3",
+    "erusev/parsedown": "^1.7",
+    "league/uri-parser": "^1.4",
+    "ext-json": "*",
+    "doctrine/collections": "^1.6",
+    "hyn/frontmatter": "dev-master",
+    "ezyang/htmlpurifier": "^4.11",
+    "phpmailer/phpmailer": "^6.0",
+    "google/recaptcha": "^1.2"
+  }
+}
